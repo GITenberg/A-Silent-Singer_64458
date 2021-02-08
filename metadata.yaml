@@ -1,0 +1,26 @@
+_repo: A-Silent-Singer_64458
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morris, Clara
+    aliases:
+    - Harriott, Clara Morris
+    - Morrison, Clara
+    birthdate: 1848
+    deathdate: 1925
+    gutenberg_agent_id: '4972'
+    url: http://www.gutenberg.org/2009/agents/4972
+    wikipedia: https://en.wikipedia.org/wiki/Clara_Morris
+description: ''
+gutenberg_issued: '2021-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64458'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Silent Singer
+url: http://www.gutenberg.org/ebooks/64458
