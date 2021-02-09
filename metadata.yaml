@@ -1,5 +1,8 @@
 _repo: A-Silent-Singer_64458
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64458-h/images/cover.jpg
 creator:
   author:
     agent_name: Morris, Clara
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4972
     wikipedia: https://en.wikipedia.org/wiki/Clara_Morris
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64458#A-Silent-Singer
 gutenberg_issued: '2021-02-04'
 gutenberg_type: Text
 identifiers:
